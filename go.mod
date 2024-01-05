@@ -1,6 +1,6 @@
-module github.com/czyt/knownhost
+module github.com/lib-x/knownhost
 
-go 1.19
+go 1.20
 
 require golang.org/x/crypto v0.17.0
 
